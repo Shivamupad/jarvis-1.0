@@ -1,3 +1,23 @@
+# Byte-compiled / cache
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Virtual environment
 venv/
+env/
+
+# Editor and IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.sqlite3
+*.db
+*.bak
